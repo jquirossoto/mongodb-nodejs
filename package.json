@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-nodejs",
+  "version": "1.0.0",
+  "description": "pluralsight angular course: https://www.pluralsight.com/courses/mongodb-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jquirossoto/mongodb-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jquirossoto/mongodb-nodejs/issues"
+  },
+  "homepage": "https://github.com/jquirossoto/mongodb-nodejs#readme",
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
+}
