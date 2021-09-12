@@ -1,2 +1,2 @@
 # mongodb-nodejs
-pluralsight angular course: https://www.pluralsight.com/courses/mongodb-nodejs
+Pluralsight Node.js course: https://www.pluralsight.com/courses/mongodb-nodejs
